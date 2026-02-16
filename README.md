@@ -1,5 +1,4 @@
-Medium Idea - Complete Tier
-\nLocal File Reader
+Medium Idea - Complete Tier - Local File Reader
 
 For my first MCP server, I created a tool that allows Claude to read text files from a directory on your local computer called the Local File Reader. This is useful because it allows Claude to access notes, logs, datasets, etc without having to manually copy and pasting content. It also improves workflow, allowing developers working with code and other documents to complete tasks at a more efficient rate.
 
@@ -19,4 +18,5 @@ Usages:
 
 Limitations:
 Tool can only read files within the selected directory
+
 
