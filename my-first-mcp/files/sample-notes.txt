@@ -1,0 +1,6 @@
+Hello from your first MCP server!
+
+These are sample notes in the "files" directory.
+Your Local File Reader MCP tool can read any text file in this folder.
+
+Try adding your own .txt, .md, or .json files here!

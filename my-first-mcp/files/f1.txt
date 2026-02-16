@@ -1,0 +1,3 @@
+Hi World!
+
+Tester filer for my first MCP server with a Local File Reader Tool.
